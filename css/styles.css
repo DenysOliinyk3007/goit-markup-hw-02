@@ -119,6 +119,11 @@ a{
 .team-list{
     background-color: #ffffff;
 }
+
+.team-list-inner{
+    background-color: #ffffff;
+}
+
 .footer-class {
     background-color:#2e2f42;
 }
