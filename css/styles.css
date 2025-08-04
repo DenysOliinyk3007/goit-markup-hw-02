@@ -116,7 +116,9 @@ a{
 .team-image{
     background-color: #ffffff;
 }
-
+.team-list{
+    background-color: #ffffff;
+}
 .footer-class {
     background-color:#2e2f42;
 }
@@ -127,4 +129,7 @@ a{
     letter-spacing: 0.02em;
     color: #F4F4FD;
 
+}
+.logo-footer-span {
+    color: #f4f4fd;
 }
