@@ -31,7 +31,7 @@ a{
 .nav-menu {
     font-family: inherit;
     font-size: 16px;
-    font-color: #2e2f42;
+    color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-weight: 500;
@@ -39,6 +39,9 @@ a{
 
 .nav-menu:hover, .nav-menu:focus{
     color: #404bbf;
+}
+.adress-class{
+    font-style:normal;
 }
 .address{
     font-family: inherit;
@@ -85,6 +88,11 @@ a{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+}
+.feature-list {
+    background-color: #ffffff;
 }
 .small-header {
     font-family:inherit;
@@ -92,7 +100,7 @@ a{
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    
+    color: #2e2f42;
 }
 .text{
     font-family: inherit;
@@ -109,3 +117,14 @@ a{
     background-color: #ffffff;
 }
 
+.footer-class {
+    background-color:#2e2f42;
+}
+.footer-text{
+    font-family: inherit;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+
+}
